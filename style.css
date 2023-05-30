@@ -1,0 +1,22 @@
+hr{
+    border-style: none;
+    border-top-style: dotted ;
+    border-color: aquamarine;
+    border-width: 5px;
+    width: 5%;
+}
+
+h2{
+    color: blueviolet;
+}
+h1{
+    color: blueviolet;
+}
+
+.h22 .str{
+color: #1cd73b;
+}
+
+#em33 {
+    color: blueviolet;
+}
